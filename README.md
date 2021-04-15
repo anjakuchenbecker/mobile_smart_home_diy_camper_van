@@ -13,12 +13,12 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 I started this project recently, so it's in progress. Content and code snippets will be added during my project progress.
 
+Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/).
+
 ## Planning and Overview
 
 ![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.jpg)
 
-Features
-* TBD
 
 ## Control Units
 
