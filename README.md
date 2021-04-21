@@ -31,3 +31,11 @@ Current Prototype (only for testing purposes) and the creation process behind:
 ![Prototype Control Unit Sideboard](docs/prototype_control_unit_sideboard.jpg)
 
 ![Creation Process Control Unit Sideboard](docs/creation_process_control_unit_sideboard.png)
+
+### Prototype Control Unit Bedroom
+
+Current Prototype (only for testing purposes) and the creation process behind (same as for sideboard, therefore shortened):
+
+![Prototype Control Unit Bedroom](docs/prototype_control_unit_bedroom.jpg)
+
+![Creation Process Control Unit Bedroom](docs/creation_process_control_unit_bedroom.png)
