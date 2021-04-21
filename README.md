@@ -23,3 +23,14 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 ## Control Units
 
 ![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.jpg)
+
+### Prototype Control Unit Sideboard
+
+Current Prototype (only for testing purposes) 
+
+![Prototype Control Unit Sideboard](docs/prototype_control_unit_sideboard.jpg)
+
+
+Creation process
+
+![Creation Process Control Unit Sideboard](docs/creation_process_control_unit_sideboard.png)
