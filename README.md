@@ -26,11 +26,8 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 
 ### Prototype Control Unit Sideboard
 
-Current Prototype (only for testing purposes) 
+Current Prototype (only for testing purposes) and the creation process behind:
 
 ![Prototype Control Unit Sideboard](docs/prototype_control_unit_sideboard.jpg)
-
-
-Creation process
 
 ![Creation Process Control Unit Sideboard](docs/creation_process_control_unit_sideboard.png)
