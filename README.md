@@ -46,7 +46,7 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
   - Display is turned on for a specific duration in case of touch or button push is detected
   - You can set a timer when the tire warmers should be turned on (only control unit sideboard)
   - You can set date and time (only control unit sideboard)
-- Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightnes level depends on currently activated light scene)
+- Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightness level depends on currently activated light scene)
 - Bathroom fan turns on automatically in case of specific humidity threshold overrun is detected
 - Fans located in fridge closet turn on automatically in case of specific temperature threshold overrun is detected
 
