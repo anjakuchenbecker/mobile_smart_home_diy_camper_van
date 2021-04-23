@@ -7,6 +7,9 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 - [Project Status](#planning-and-overview)
 - [Planning and Overview](#planning-and-overview)
 - [Control Units](#control-units)
+- [Prototype Control Unit Sideboard](#prototype-control-unit-sideboard)
+- [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
+- [Storyboard Display](#storyboard-display)
 
 
 ## Project Status
@@ -39,3 +42,8 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 ![Prototype Control Unit Bedroom](docs/prototype_control_unit_bedroom.jpg)
 
 ![Creation Process Control Unit Bedroom](docs/creation_process_control_unit_bedroom.png)
+
+
+## Storyboard Display
+
+![Storyboard Display](docs/storyboard_display.png)
