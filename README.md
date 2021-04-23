@@ -22,6 +22,41 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 
 ![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.jpg)
 
+## Key Features
+
+- Creation of two control units, one within the sideboard area the other one within the bedroom area, which offers the following means
+  - Turn outside light on or off
+  - Turn tire warmers on or off
+  - Activation of five different light scenes
+    - "Off": Turns all lights off (motion based triggered bathroom light excluded)
+    - "Bright": Turns all lights on with maximum brightness level (motion based triggered bathroom light excluded)
+    - "Ambient": Turns all lights on with low brightness level, orange light (motion based triggered bathroom light excluded)
+    - "Work": Turns all lights on with medium brightness level, white light
+    - "Sleep": Activates motion detector in corridor area. When motion is detected one light is activated in red color on lowest brightness level and the bathroom light is switched to red color in lowest brightness level when within the bathroom area a motion is detected.
+  - Turn bedroom light on or off
+  - Turn heater on or off
+  - Increase or decrease of heater temperature
+  - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
+    - Default: Shows TBD
+    - Water ingress status: Shows TBD
+    - Climate status: Shows TBD
+    - Timer: TBD
+    - Time and Date Setting: TBD
+  - Control unit is illuminated automatically as well as display is turned on for a specific duration in case of your hand comes near the control unit
+  - Display is turned on for a specific duration in case of touch or button push is detected
+  - You can set a timer when the tire warmers should be turned on (only control unit sideboard)
+  - You can set date and time (only control unit sideboard)
+- Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightnes level depends on currently activated light scene)
+- Bathroom fan turns on automatically in case of specific humidity threshold overrun is detected
+- Fans located in fridge closet turn on automatically in case of specific temperature threshold overrun is detected
+
+
+Integration of
+- 230V lights (4 pieces) with IR control from different vendor
+- 12V diesel heater with RF control
+- 230V RF sockets (2 pieces)
+- 12V fans (3 pieces)
+
 
 ## Control Units
 
