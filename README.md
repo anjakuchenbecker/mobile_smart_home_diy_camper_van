@@ -6,6 +6,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 - [Project Status](#planning-and-overview)
 - [Planning and Overview](#planning-and-overview)
+  - [Features](#features)
 - [Control Units](#control-units)
   - [Prototype Control Unit Sideboard](#prototype-control-unit-sideboard)
   - [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
@@ -22,7 +23,7 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 
 ![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.jpg)
 
-## Key Features
+## Features
 
 - Creation of two control units, one within the sideboard area the other one within the bedroom area, which offers the following means
   - Turn outside light on or off
@@ -42,6 +43,7 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
     - Climate status: Shows TBD
     - Timer: TBD
     - Time and Date Setting: TBD
+    - System Settings: TBD
   - Control unit is illuminated automatically as well as display is turned on for a specific duration in case of your hand comes near the control unit
   - Display is turned on for a specific duration in case of touch or button push is detected
   - You can set a timer when the tire warmers should be turned on (only control unit sideboard)
@@ -49,6 +51,9 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 - Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightness level depends on currently activated light scene)
 - Bathroom fan turns on automatically in case of specific humidity threshold overrun is detected
 - Fans located in fridge closet turn on automatically in case of specific temperature threshold overrun is detected
+- Water tank level monitoring
+- Water ingress level monitoring
+- Temperature and humidity monitoring
 
 
 Integration of
