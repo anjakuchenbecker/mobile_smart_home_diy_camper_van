@@ -7,6 +7,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 - [Project Status](#planning-and-overview)
 - [Planning and Overview](#planning-and-overview)
   - [Features](#features)
+- [Project Management](#project-management)
 - [Control Units](#control-units)
   - [Prototype Control Unit Sideboard](#prototype-control-unit-sideboard)
   - [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
