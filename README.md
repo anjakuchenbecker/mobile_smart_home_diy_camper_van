@@ -61,6 +61,7 @@ Integration of
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
 - 12V fans (3 pieces)
+- TBD
 
 
 ## Control Units
