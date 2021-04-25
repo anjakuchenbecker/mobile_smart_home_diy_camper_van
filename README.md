@@ -88,3 +88,7 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 
 ![Storyboard Display](docs/storyboard_display.png)
 
+## Lighting Control
+
+![Lighting Control](docs/lighting_control.png)
+
