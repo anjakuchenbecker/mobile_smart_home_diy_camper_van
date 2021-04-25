@@ -21,7 +21,7 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 
 ## Planning and Overview
 
-![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.jpg)
+![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.png)
 
 ## Features
 
