@@ -66,7 +66,7 @@ Integration of
 
 ## Control Units
 
-![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.jpg)
+![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.png)
 
 ### Prototype Control Unit Sideboard
 
