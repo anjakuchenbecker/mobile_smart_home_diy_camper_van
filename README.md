@@ -69,6 +69,7 @@ Integration of
 ## Project Management
 
 For the management of this project I have set up a trello board (Kamil acts as tester as well as a requirements stakeholder like me):
+
 Please note that I've blackened most of the story cards!
 
 ![Trello Board](docs/mobile_smart_home_diy_camper_van_trello_board.png)
