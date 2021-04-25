@@ -72,24 +72,24 @@ Integration of
 
 Current Prototype (only for testing purposes) and the creation process behind:
 
-![Prototype Control Unit Sideboard](docs/prototype_control_unit_sideboard.jpg)
+![Prototype Control Unit Sideboard](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg)
 
-![Creation Process Control Unit Sideboard](docs/creation_process_control_unit_sideboard.png)
+![Creation Process Control Unit Sideboard](docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_sideboard.png)
 
 ### Prototype Control Unit Bedroom
 
 Current Prototype (only for testing purposes) and the creation process behind (same as for sideboard, therefore shortened):
 
-![Prototype Control Unit Bedroom](docs/prototype_control_unit_bedroom.jpg)
+![Prototype Control Unit Bedroom](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_bedroom.jpg)
 
-![Creation Process Control Unit Bedroom](docs/creation_process_control_unit_bedroom.png)
+![Creation Process Control Unit Bedroom](docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_bedroom.png)
 
 
 ## Storyboard Display
 
-![Storyboard Display](docs/storyboard_display.png)
+![Storyboard Display](docs/mobile_smart_home_diy_camper_van_storyboard_display.png)
 
 ## Lighting Control
 
-![Lighting Control](docs/lighting_control.png)
+![Lighting Control](docs/mobile_smart_home_diy_camper_van_lighting_control.png)
 
