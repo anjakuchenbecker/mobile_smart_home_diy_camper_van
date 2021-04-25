@@ -65,6 +65,17 @@ Integration of
 - TBD
 
 
+## Project Management
+
+For the management of this project I have set up a trello board (Kamil acts as tester as well as a requirements stakeholder like me):
+Please note that I've blackened most of the story cards!
+
+![Trello Board](docs/mobile_smart_home_diy_camper_van_trello_board.png)
+
+I have break down all requirements / stuff I have to build and implement in the course of this project into stories, here is an example story:
+
+![Story Example](docs/mobile_smart_home_diy_camper_van_story_detail.png)
+
 ## Control Units
 
 ![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.png)
