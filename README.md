@@ -8,6 +8,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 - [Planning and Overview](#planning-and-overview)
   - [Features](#features)
 - [Project Management](#project-management)
+- [Overall Prototyping Status](#overall-prototyping-status)
 - [Control Units](#control-units)
   - [Prototype Control Unit Sideboard](#prototype-control-unit-sideboard)
   - [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
@@ -77,6 +78,11 @@ Please note that I've blackened most of the story cards!
 I have break down all requirements / stuff I have to build and implement in the course of this project into stories, here is an example story:
 
 ![Story Example](docs/mobile_smart_home_diy_camper_van_story_detail.png)
+
+## Overall Prototyping Status
+04.05.2021: I've soldered a lot, physically installed already most of the electronic components and wrote over 1000 lines of code, but yet not finished ;-)
+
+![Overall Prototyping Status](docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png)
 
 ## Control Units
 
