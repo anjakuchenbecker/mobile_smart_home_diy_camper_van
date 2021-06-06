@@ -63,7 +63,8 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 - Permanently storage of system configuration parameters
 
 
-Integration of the following hardware components
+## Integration of the following hardware components
+
 - 230V lights (4 pieces) with IR control from different vendor (e.g., iDual)
 - 230V shore power heater with IR control
 - 12V diesel heater with RF control
@@ -87,7 +88,8 @@ Integration of the following hardware components
 - Momentary Push Buttons (28 pieces; 12mm)
 - Different resistors
 
-Usage of the following software libs
+
+## Usage of the following software libs
 - TBD
 
 
@@ -156,7 +158,6 @@ TBD
 #### Time and Date Setting Implementation
 
 TBD
-
 
 #### System Settings Implementation
 
