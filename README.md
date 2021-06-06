@@ -38,13 +38,14 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
     - "Work": Turns all lights on with medium brightness level, white light
     - "Sleep": Activates motion detector in corridor area. When motion is detected one light is activated in red color on lowest brightness level and the bathroom light is switched to red color in lowest brightness level when within the bathroom area a motion is detected.
   - Turn bedroom light on or off
-  - Turn heater on or off
-  - Increase or decrease of heater temperature
+  - Switch between shore power heater and diesel heater control
+  - Turn (shore powert or diesel) heater on or off
+  - Increase or decrease of (shore powert or diesel) heater temperature
   - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
     - Default: Shows TBD
     - Water ingress status: Shows TBD
     - Climate status: Shows TBD
-    - Timer: TBD
+    - Tire Warmers Timer: TBD
     - Time and Date Setting: TBD
     - System Settings: TBD
   - Control unit is illuminated automatically as well as display is turned on for a specific duration in case of your hand comes near the control unit
@@ -57,13 +58,36 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 - Water tank level monitoring
 - Water ingress level monitoring
 - Temperature and humidity monitoring
+- Change of system configuration parameters
+  - TBD 
+- Permanently storage of system configuration parameters
 
 
-Integration of
-- 230V lights (4 pieces) with IR control from different vendor
+Integration of the following hardware components
+- 230V lights (4 pieces) with IR control from different vendor (e.g., iDual)
+- 230V shore power heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
-- 12V fans (3 pieces)
+- 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
+- 120x120x25mm fans (2 pieces; 12V, 127,3m^3/h, 34dBA)
+- Water Sensors (6 pieces; SE045)
+- Ultrasonic sensor (1 piece; HC-SR04)
+- IR-Emitter (5 pieces; TSAL 6200 IR-Emitter 940nm)
+- Motion Sensors (2 pieces; HC-SR501)
+- Temperature & Humidity Sensors (4 pieces; DHT22)
+- TFT Displays (2 pieces; 1.8 Zoll SPI ST7735 TFT Display 128 x 160 Pixel)
+- Line Follower IR Sensor (2 pieces; TCRT5000)
+- Shift registers (4 pieces; 74HC165)
+- Real Time Clock (1 piece; DS3231)
+- Relais Module (1 piece; 4-Relais Modul 5V)
+- NPN-Transistor (1 piece; PN2222)
+- External EEPROM Module (1 piece; AT24C256 I2C Interface EEPROM)
+- RF 433 MHz Transmitter (1 piece; H34A)
+- Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
+- Momentary Push Buttons (28 pieces; 12mm)
+- Different resistors
+
+Usage of the following software libs
 - TBD
 
 
@@ -111,7 +135,34 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 
 ![Storyboard Display](docs/mobile_smart_home_diy_camper_van_storyboard_display.png)
 
-## Lighting Control
+### Display Implementation
+
+#### Default Screen Implementation
+
+TBD
+
+#### Water ingress status Screen Implementation
+
+TBD
+
+#### Climate status Screen Implementation
+
+TBD
+
+#### Tire Warmers Timer Implementation
+
+TBD
+
+#### Time and Date Setting Implementation
+
+TBD
+
+
+#### System Settings Implementation
+
+TBD
+
+## Lighting Control Implementation
 
 ![Lighting Control](docs/mobile_smart_home_diy_camper_van_lighting_control.png)
 
