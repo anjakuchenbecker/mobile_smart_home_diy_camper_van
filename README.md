@@ -140,27 +140,60 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 
 #### Default Screen Implementation
 
-TBD
+![Default Screen](docs/mobile_smart_home_diy_camper_screen_01_default.jpg)
 
 #### Water ingress status Screen Implementation
 
-TBD
+![Water ingress status Screen](docs/mobile_smart_home_diy_camper_screen_02_water_ingress_status.jpg)
 
 #### Climate status Screen Implementation
 
-TBD
+![Climate status Screen](docs/mobile_smart_home_diy_camper_screen_03_climate_status.jpg)
 
 #### Tire Warmers Timer Implementation
 
-TBD
+![Tire Warmers Timer Screen 1](docs/mobile_smart_home_diy_camper_screen_04_tire_warmers_timer_1.jpg)
+![Tire Warmers Timer Screen 2](docs/mobile_smart_home_diy_camper_screen_04_tire_warmers_timer_2.jpg)
 
 #### Time and Date Setting Implementation
 
-TBD
+![Time and Date Setting Screen](docs/mobile_smart_home_diy_camper_screen_05_time_date_setting.jpg)
 
 #### System Settings Implementation
 
-TBD
+![System Settings Home Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_0_home.jpg)
+
+##### Light Duration Configuration
+
+![Light Duration Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_1_light_duration.jpg)
+
+##### Fridge Fan Temperature Threshold Configuration
+
+![Fridge Fan Temperature Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_2_fan_temperature_fridge.jpg)
+
+##### Bathroom Fan Humidity Threshold Configuration
+
+![Bathroom Fan Humidity Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_3_fan_humidity_bathroom.jpg)
+
+##### Water Sensor Threshold Configuration
+
+![Water Sensor Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_4_water_sensor.jpg)
+
+##### Sideboard Distance Threshold Configuration
+
+![Sideboard Distance Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_5_sideboard_distance.jpg)
+
+##### Sideboard Touch Threshold Configuration
+
+![Sideboard Touch Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_6_sideboard_touch.jpg)
+
+##### Bed Distance Threshold Configuration
+
+![Bed Distance Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_7_bed_distance.jpg)
+
+##### Bed Touch Threshold Configuration
+
+![Bed Touch Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_8_bed_touch.jpg)
 
 ## Lighting Control Implementation
 
