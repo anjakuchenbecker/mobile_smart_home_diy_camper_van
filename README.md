@@ -139,7 +139,7 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 ### Display Implementation
 
 According to my storyboard concept, I implemented the screens and screen workflow.
-By usage of the touch area, you switch between the six main screens as they are depicted in the following screenshots. Some screens enables the possiblity to enter values and perform actions via the keypad. In the "System Settings" screen you can go to a specific setting by hitting the relate key on the keypad.
+By usage of the touch area, you switch between the six main screens as they are depicted in the following screenshots. Some screens enables the possiblity to enter values and perform actions via the keypad. In the "System Settings" screen you can go to a specific setting by hitting the related key on the keypad.
 
 #### Default Screen Implementation
 
