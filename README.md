@@ -106,7 +106,8 @@ I have break down all requirements / stuff I have to build and implement in the 
 ![Story Example](docs/mobile_smart_home_diy_camper_van_story_detail.png)
 
 ## Overall Prototyping Status
-04.05.2021: I've soldered a lot, physically installed already most of the electronic components and wrote over 1000 lines of code, but yet not finished ;-)
+
+06.06.2021: I've soldered a lot, physically installed all of the electronic components and wrote over 4500 lines of code. Next step is to transform this prototype setup into final units, which can I install into our Sprinter.
 
 ![Overall Prototyping Status](docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png)
 
