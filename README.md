@@ -118,7 +118,6 @@ I have break down all requirements / stuff I have to build and implement in the 
 ### Prototype Control Unit Sideboard
 
 Current Prototype (only for testing purposes) and the creation process behind:
-(Note: Must be adapted to the latest control units concept, two buttons are missing as well as the second LED must be removed.)
 
 ![Prototype Control Unit Sideboard](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg)
 
@@ -127,7 +126,6 @@ Current Prototype (only for testing purposes) and the creation process behind:
 ### Prototype Control Unit Bedroom
 
 Current Prototype (only for testing purposes) and the creation process behind (same as for sideboard, therefore shortened):
-(Note: Must be adapted to the latest control units concept, two buttons are missing.)
 
 ![Prototype Control Unit Bedroom](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_bedroom.jpg)
 
