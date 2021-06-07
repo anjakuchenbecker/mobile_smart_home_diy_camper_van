@@ -43,7 +43,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
     - "Sleep": Activates motion detector in corridor area. When motion is detected one light is activated in red color on lowest brightness level and the bathroom light is switched to red color in lowest brightness level when within the bathroom area a motion is detected.
   - Turn bedroom light on or off
   - Switch between shore power heater and diesel heater control
-  - Turn (shore powert or diesel) heater on or off
+  - Turn (shore power or diesel) heater on or off
   - Increase or decrease of (shore powert or diesel) heater temperature
   - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
     - Default: Shows TBD
