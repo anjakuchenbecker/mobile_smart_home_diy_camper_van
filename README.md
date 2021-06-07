@@ -18,7 +18,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 ## Project Status
 
-I started this project recently, so it's in progress. Content and code snippets will be added during my project progress.
+I started this project recently, so it's in progress. Content and code snippets (example sketches) will be added during my project progress.
 
 Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/).
 
@@ -202,3 +202,6 @@ By usage of the touch area, you switch between the six main screens as they are 
 
 ![Lighting Control](docs/mobile_smart_home_diy_camper_van_lighting_control.png)
 
+## Example Sketches
+
+You find some example sketches within the wiki: https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki
