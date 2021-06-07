@@ -6,21 +6,25 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 - [Project Status](#planning-and-overview)
 - [Planning and Overview](#planning-and-overview)
-  - [Features](#features)
+- [Features](#features)
 - [Project Management](#project-management)
 - [Overall Prototyping Status](#overall-prototyping-status)
 - [Control Units](#control-units)
   - [Prototype Control Unit Sideboard](#prototype-control-unit-sideboard)
   - [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
 - [Storyboard Display](#storyboard-display)
+  - [Display Implementation](#display-implementation)
 - [Lighting Control](#lighting-control)
+- [Example Sketches](#example-sketches)
 
 
 ## Project Status
 
-I started this project recently, so it's in progress. Content and code snippets (example sketches) will be added during my project progress.
+Prototyping is completed! I've soldered a lot, physically installed all of the electronic components and wrote over 4500 lines of code. Next step is to transform this prototype setup into final units, which can I install into our Sprinter.
 
 Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/).
+
+Example sketches can be found here: [Example Sketches](#example-sketches) 
 
 ## Planning and Overview
 
@@ -63,8 +67,9 @@ Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https:/
 - Permanently storage of system configuration parameters
 
 
-## Integration of the following hardware components
+## Integration of the following hardware components 
 
+Total: 106 components
 - 230V lights (4 pieces) with IR control from different vendor (e.g., iDual)
 - 230V shore power heater with IR control
 - 12V diesel heater with RF control
@@ -106,8 +111,6 @@ I have break down all requirements / stuff I have to build and implement in the 
 ![Story Example](docs/mobile_smart_home_diy_camper_van_story_detail.png)
 
 ## Overall Prototyping Status
-
-06.06.2021: I've soldered a lot, physically installed all of the electronic components and wrote over 4500 lines of code. Next step is to transform this prototype setup into final units, which can I install into our Sprinter.
 
 ![Overall Prototyping Status](docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png)
 
