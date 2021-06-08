@@ -1,5 +1,5 @@
 # "Mobile Smart Home" for our DIY Camper Van
-With this repo I provide my concepts and some code snippets about our DIY camper van that I will turn into a "Mobile Smart Home" with an Arduino Mega and a bunch of electronic components.
+With this repo I provide my concepts and some code snippets (example sketches) about our DIY camper van that I will turn into a "Mobile Smart Home" with an Arduino Mega and a bunch of electronic components.
 Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nice touch screen which communicates with the Arduino Mega.
 
 ## Table of Contents
@@ -47,7 +47,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
   - Increase or decrease of (shore powert or diesel) heater temperature
   - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
     - [Default Screen](#default-screen-implementation)
-    - [Water ingress status Screen](#default-screen-implementation)
+    - [Water ingress status Screen](#water-ingress-status-screen-implementation)
     - [Climate status Screen](#climate-status-screen-implementation)
     - [Tire Warmers Timer](#tire-warmers-timer-implementation)
     - [Time and Date Setting](#time-and-date-setting-implementation)
@@ -66,7 +66,9 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
   - You can set date and time (only via control unit sideboard)
 - Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightness level depends on currently activated light scene)
 - Bathroom fan turns on automatically in case of specific humidity threshold overrun is detected
+  - Behavior can be overruled by permanently on and off mode
 - Fans located in fridge closet turn on automatically in case of specific temperature threshold overrun is detected
+  - Behavior can be overruled by permanently on and off mode
 - Water tank level monitoring
 - Water ingress level monitoring
 - Temperature and humidity monitoring
@@ -156,6 +158,22 @@ According to my storyboard concept, I implemented the screens and screen workflo
 By usage of the touch area, you switch between the six main screens as they are depicted in the following screenshots. Some screens enables the possiblity to enter values and perform actions via the keypad. In the "System Settings" screen you can go to a specific setting by hitting the related key on the keypad.
 
 #### Default Screen Implementation
+
+The default screen shows the following information
+- Current main temperature and humidity
+- Current time
+- Tire warmers timer indicator (only if timer has been set)
+- Overall water ingress status level indicator (only if at least one water ingress threshold is exceeded)
+- Currently selected light screne ("AUS", "HELL", "AMBIENT", "ARBEITEN", "SCHLAFEN" )
+- Bed light status indicator (green: on; red: off)
+- Outside light indicator (green: on; red: off)
+- Currently selected heater ("E-Heizung" or "D-Heizung)
+- Heater status indicator (green: on; red: off)
+- Tire warmers indicator (green: on; red: off)
+- Bathroom fan indicator (grey: auto mode; green: permanently on; red: permanently off)
+- Fridge closet fans indicator (grey: auto mode; green: permanently on; red: permanently off)
+- Water tank water level indicator (blue bar, width based on current level)
+
 
 ![Default Screen](docs/mobile_smart_home_diy_camper_screen_01_default.jpg)
 
