@@ -210,7 +210,7 @@ The time and the date can be set. Input is made via the keypad. There is also an
 
 #### System Settings Implementation
 
-All important system setting are configurable. From this screen you can jump into each configuration area by using the related keypad value.
+All important system setting are configurable. From this screen you can jump into each configuration area by using the related keypad button (1-8).
 
 ![System Settings Home Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_0_home.jpg)
 
