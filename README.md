@@ -179,6 +179,9 @@ The default screen shows the following information
 
 #### Water ingress status Screen Implementation
 
+The water ingress status screen acts monitoring for the installed water sensors. 
+In case of the configured water ingress threshold is exceeded the related area name (where water sensor is installed) is tinted in red otherwise in green.
+
 ![Water ingress status Screen](docs/mobile_smart_home_diy_camper_screen_02_water_ingress_status.jpg)
 
 #### Climate status Screen Implementation
