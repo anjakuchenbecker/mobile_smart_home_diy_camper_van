@@ -54,8 +54,8 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
     - System Settings: TBD
   - Control unit is illuminated automatically as well as display is turned on for a specific duration in case of your hand comes near the control unit
   - Display is turned on for a specific duration in case of touch or button push is detected
-  - You can set a timer when the tire warmers should be turned on (only control unit sideboard)
-  - You can set date and time (only control unit sideboard)
+  - You can set a timer when the tire warmers should be turned on (only via control unit sideboard)
+  - You can set date and time (only via control unit sideboard)
 - Bathroom light turns on automatically for a specific duration in case of motion is detected (color and brightness level depends on currently activated light scene)
 - Bathroom fan turns on automatically in case of specific humidity threshold overrun is detected
 - Fans located in fridge closet turn on automatically in case of specific temperature threshold overrun is detected
@@ -63,7 +63,14 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 - Water ingress level monitoring
 - Temperature and humidity monitoring
 - Change of system configuration parameters
-  - TBD 
+  - LED and background light duration of control units
+  - Temperature threshold for fridge fans
+  - Humidity threshold for bathroom fan
+  - Water ingress threshold for water sensors
+  - Distance recognition threshold for sideboard control unit
+  - Touch recognition threshold for sideboard control unit 
+  - Distance recognition threshold for bed control unit
+  - Touch recognition threshold for bed control unit 
 - Permanently storage of system configuration parameters
 
 
@@ -92,8 +99,6 @@ Total: 106 components
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - Momentary Push Buttons (28 pieces; 12mm)
 - Different resistors
-
-
 
 
 ## Project Management
