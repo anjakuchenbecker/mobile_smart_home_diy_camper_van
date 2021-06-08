@@ -205,8 +205,9 @@ By usage of the touch area, you switch between the six main screens as they are 
 
 ## Example Sketches
 
-Within the wiki you find some example sketches with respect to different topics, which are maybe useful for your purposes: 
-https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki
+Within the [wiki](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki) you find some example sketches with respect to different topics, which are maybe useful for your purposes: 
+
+- [Four Daisy Chained 74HC165 Shift Registers (Multiple Shift Registers)](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/Four-Daisy-Chained-74HC165-Shift-Registers-(Multiple-Shift-Registers))
 
 ## Usage of the following software libs
 - *ucglib* by Oli Kraus for TFT Display integration: https://github.com/olikraus/ucglib
