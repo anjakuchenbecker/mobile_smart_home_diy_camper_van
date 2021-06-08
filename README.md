@@ -205,7 +205,8 @@ By usage of the touch area, you switch between the six main screens as they are 
 
 ## Example Sketches
 
-You find some example sketches within the wiki: https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki
+Within the wiki you find some example sketches with respect to different topics, which are maybe useful for your purposes: 
+https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki
 
 ## Usage of the following software libs
 - *ucglib* by Oli Kraus for TFT Display integration: https://github.com/olikraus/ucglib
