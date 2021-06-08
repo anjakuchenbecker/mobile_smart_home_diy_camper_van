@@ -197,14 +197,14 @@ A timer can be set for the tire warmers, which are connected to RF sockets.
 Yes, that sounds crazy, but is soooo useful :-) 
 Race events usually start early in the morning and with this feature the is no need to go out right after getting up and plug in your tire warmers.
 
-Input is made via the keypad. There is also a input validation and a timer reset option.
+Input is made via the keypad. There is also an input validation and a timer reset option.
 
 ![Tire Warmers Timer Screen 1](docs/mobile_smart_home_diy_camper_screen_04_tire_warmers_timer_1.jpg)
 ![Tire Warmers Timer Screen 2](docs/mobile_smart_home_diy_camper_screen_04_tire_warmers_timer_2.jpg)
 
 #### Time and Date Setting Implementation
 
-The time and the date can be set. Input is made via the keypad. There is also a input validation.
+The time and the date can be set. Input is made via the keypad. There is also an input validation.
 
 ![Time and Date Setting Screen](docs/mobile_smart_home_diy_camper_screen_05_time_date_setting.jpg)
 
@@ -216,13 +216,20 @@ All important system setting are configurable. From this screen you can jump int
 
 ##### Light Duration Configuration Implementation
 
+The illumination duration of the TFT backlight and LEDs can be configured here.
+Input is made via the keypad. There is also an input validation.
+
 ![Light Duration Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_1_light_duration.jpg)
 
 ##### Fridge Fan Temperature Threshold Configuration Implementation
 
+The temperature threshold, when the fans located in fridge closet should turn on automatically (only in auto mode), can be configured here.
+
 ![Fridge Fan Temperature Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_2_fan_temperature_fridge.jpg)
 
 ##### Bathroom Fan Humidity Threshold Configuration Implementation
+
+The humidity threshold, when the fan within the bathroom should turn on automatically (only in auto mode), can be configured here.
 
 ![Bathroom Fan Humidity Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_3_fan_humidity_bathroom.jpg)
 
