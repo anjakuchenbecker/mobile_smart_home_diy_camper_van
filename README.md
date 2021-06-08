@@ -42,9 +42,9 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
     - "Work": Turns all lights on with medium brightness level, white light
     - "Sleep": Activates motion detector in corridor area. When motion is detected one light is activated in red color on lowest brightness level and the bathroom light is switched to red color in lowest brightness level when within the bathroom area a motion is detected.
   - Turn bedroom light on or off
-  - Switch between shore power heater and diesel heater control
-  - Turn (shore power or diesel) heater on or off
-  - Increase or decrease of (shore powert or diesel) heater temperature
+  - Switch between electric heater and diesel heater control
+  - Turn (electric or diesel) heater on or off
+  - Increase or decrease of (electric or diesel) heater temperature
   - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
     - [Default Screen](#default-screen-implementation)
     - [Water ingress status Screen](#water-ingress-status-screen-implementation)
@@ -88,7 +88,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 
 Total: 106 components
 - 230V lights (4 pieces) with IR control from different vendor (e.g., iDual)
-- 230V shore power heater with IR control
+- 230V electric heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
 - 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
