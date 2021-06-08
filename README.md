@@ -46,9 +46,9 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
   - Turn (shore power or diesel) heater on or off
   - Increase or decrease of (shore powert or diesel) heater temperature
   - Touch area to switch between the different display states (please refer to [Storyboard Display](#storyboard-display))
-    - Default: Shows TBD
-    - Water ingress status: Shows TBD
-    - Climate status: Shows TBD
+    - Default: [Default Screen Implementation](#default-screen-implementation)
+    - Water ingress monitor: Shows TBD
+    - Climate monitor: Shows TBD
     - Tire Warmers Timer: TBD
     - Time and Date Setting: TBD
     - System Settings: TBD
