@@ -14,7 +14,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
   - [Prototype Control Unit Bedroom](#prototype-control-unit-bedroom)
 - [Storyboard Display](#storyboard-display)
   - [Display Implementation](#display-implementation)
-- [Lighting Control](#lighting-control)
+- [Lighting Control Concept](#lighting-control-concept)
 - [Example Sketches](#example-sketches)
 
 
@@ -246,7 +246,7 @@ All important system setting are configurable. From this screen you can jump int
 
 ![Bed Touch Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_8_bed_touch.jpg)
 
-## Lighting Control Implementation
+## Lighting Control Concept
 
 ![Lighting Control](docs/mobile_smart_home_diy_camper_van_lighting_control.png)
 
