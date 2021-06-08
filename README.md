@@ -186,6 +186,9 @@ In case of the configured water ingress threshold is exceeded the related area n
 
 #### Climate status Screen Implementation
 
+The climate status screen acts as monitoring for the installed temperature and humidity sensors. 
+In case of the humidity of a sensor is at least 65, the related humidity for that area is tinted in red otherwise in green.
+
 ![Climate status Screen](docs/mobile_smart_home_diy_camper_screen_03_climate_status.jpg)
 
 #### Tire Warmers Timer Implementation
