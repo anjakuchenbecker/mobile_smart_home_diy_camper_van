@@ -4,7 +4,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 ## Table of Contents
 
-- [Project Status](#planning-and-overview)
+- [Project Status](#project-status)
 - [Planning and Overview](#planning-and-overview)
 - [Features](#features)
 - [Project Management](#project-management)
@@ -94,8 +94,6 @@ Total: 106 components
 - Different resistors
 
 
-## Usage of the following software libs
-- TBD
 
 
 ## Project Management
@@ -208,3 +206,13 @@ By usage of the touch area, you switch between the six main screens as they are 
 ## Example Sketches
 
 You find some example sketches within the wiki: https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki
+
+## Usage of the following software libs
+- *ucglib* by Oli Kraus for TFT Display integration: https://github.com/olikraus/ucglib
+- *Capacitive Sensing Library* by Paul Badger for touch area integration: https://github.com/PaulStoffregen/CapacitiveSensor
+- *IRremote* by shirriff, z3t0, Armin Joachimsmeyer for IR communication integration: https://github.com/Arduino-IRremote/Arduino-IRremote
+- *Keypad Library* for Arduino by Mark Stanley, Alexander Brevig for keypad integration: https://playground.arduino.cc/Code/Keypad/
+- *DHT sensor library* by adafruit for DHT22 temperature and humidity sensor integration: https://github.com/adafruit/DHT-sensor-library
+- *rc-switch* by sui77 for H34A RF 433 Mhz Transmitter integration: https://github.com/sui77/rc-switch
+- *RTClib* by adafruit for DS3231 Real Time Clock (RTC) integration: https://github.com/adafruit/RTClib
+- *Wire library* for external EEPROM (AT24C256 I2C Interface EEPROM) integration: https://www.arduino.cc/en/Reference/Wire
