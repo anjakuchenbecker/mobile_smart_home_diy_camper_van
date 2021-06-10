@@ -95,7 +95,9 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 
 Total: 115 components
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/elegoo_mega_2560_r3.jpg" width="100">  
 - Screw / Terminal Block Shield Board Kit For ArduinoMEGA-2560 R3
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/screw_terminal_block_shield_board_kit_arduino_mega.jpg" width="100">  
 - 230V lights (4 pieces) with IR remote control from different vendors (e.g., iDual)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_back.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_udo.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_remote_control.jpg" width="100">
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light_remote_control.jpg" width="100">
