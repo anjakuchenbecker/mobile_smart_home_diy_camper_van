@@ -134,10 +134,12 @@ I have break down all requirements / stuff I have to build and implement in the 
 
 ## Overall Prototyping Status
 
-<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png" width="500"> 
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png" width="700"> 
 
 
 ## Control Units
+
+I created a functional concept for the control units, that I plan to build for our Sprinter.
 
 ![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.png)
 
@@ -146,18 +148,18 @@ I have break down all requirements / stuff I have to build and implement in the 
 
 Current Prototype (only for testing purposes) and the creation process behind:
 
-<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg" width="500"> 
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg" width="700"> 
 
-<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_sideboard.png" width="500"> 
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_sideboard.png" width="700"> 
 
 
 ### Prototype Control Unit Bedroom
 
 Current Prototype (only for testing purposes) and the creation process behind (same as for sideboard, therefore shortened):
 
-![Prototype Control Unit Bedroom](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_bedroom.jpg)
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_prototype_control_unit_bedroom.jpg" width="700"> 
 
-![Creation Process Control Unit Bedroom](docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_bedroom.png)
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_bedroom.png" width="700"> 
 
 
 ## Storyboard Display
