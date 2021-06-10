@@ -134,7 +134,8 @@ I have break down all requirements / stuff I have to build and implement in the 
 
 ## Overall Prototyping Status
 
-![Overall Prototyping Status](docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png)
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_overall_prototyping_status.png" width="500"> 
+
 
 ## Control Units
 
