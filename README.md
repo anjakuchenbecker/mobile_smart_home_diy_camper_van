@@ -141,13 +141,15 @@ I have break down all requirements / stuff I have to build and implement in the 
 
 ![Control Units Diagram](docs/mobile_smart_home_diy_camper_van_control_units.png)
 
+
 ### Prototype Control Unit Sideboard
 
 Current Prototype (only for testing purposes) and the creation process behind:
 
-![Prototype Control Unit Sideboard](docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg)
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_prototype_control_unit_sideboard.jpg" width="500"> 
 
-![Creation Process Control Unit Sideboard](docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_sideboard.png)
+<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/docs/mobile_smart_home_diy_camper_van_creation_process_control_unit_sideboard.png" width="500"> 
+
 
 ### Prototype Control Unit Bedroom
 
