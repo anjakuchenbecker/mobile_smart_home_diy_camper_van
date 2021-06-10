@@ -8,6 +8,7 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 - [Project Status](#project-status)
 - [Planning and Overview](#planning-and-overview)
 - [Features](#features)
+- [Integration of the following hardware components](#integration-of-the-following-hardware-components)
 - [Project Management](#project-management)
 - [Overall Prototyping Status](#overall-prototyping-status)
 - [Control Units](#control-units)
