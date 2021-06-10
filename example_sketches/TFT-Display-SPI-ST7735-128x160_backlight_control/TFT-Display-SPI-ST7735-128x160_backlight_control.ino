@@ -36,7 +36,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #define TFT_CD_PIN 16 // A0 on display
 #define TFT_CS_PIN 18 // CS on display
 #define TFT_RESET_PIN 17 // RESET on display
-#define TFT_BACKLIGHT_CONTROL_PIN 8 // "LED" pin on display: add a 39 Ohm resistor to reduce from 5v to 3v (100 Ohm is also OK, bigger resistor -> darker display)
+#define TFT_BACKLIGHT_CONTROL_PIN 8 // "LED" pin on display: add a 39 Ohm resistor to reduce from 5v to 3.3v (100 Ohm is also OK, bigger resistor -> darker display)
 
 // TFT Constructor (hardware SPI usage --> HWSPI)
 Ucglib_ST7735_18x128x160_HWSPI ucg(/*cd=*/ TFT_CD_PIN, /*cs=*/ TFT_CS_PIN, /*reset=*/ TFT_RESET_PIN);
