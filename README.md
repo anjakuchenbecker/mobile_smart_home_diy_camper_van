@@ -94,6 +94,7 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 ## Integration of the following hardware components 
 
 Total: 114 components
+- Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - 230V lights (4 pieces) with IR control from different vendors (e.g., iDual)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_back.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_udo.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_remote_control.jpg" width="100">
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light_remote_control.jpg" width="100">
@@ -123,7 +124,6 @@ Total: 114 components
 - External EEPROM Module (1 piece; AT24C256 I2C Interface EEPROM)
 - RF 433 MHz Transmitter (1 piece; H34A)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_back.jpg" width="100">  
-- Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - Momentary Push Buttons (28 pieces; 12mm)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Momentary_Push_Button_12mm.jpg" width="100"> 
 - Different resistors
