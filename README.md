@@ -38,7 +38,7 @@ I've planned to install a bunch of components in the different areas within our 
 
 The main features of self-made "Mobile Smart Home" solution are as follows
 
-- Creation of two control units, one within the sideboard area the other one within the bedroom area, which offers the following means
+- Creation of two control units, which replace the handling different IR / RF vendor remote controls. One within the sideboard area the other one within the bedroom area, which offers the following means
   - Turn outside light on or off
   - Turn tire warmers on or off
   - Activation of five different light scenes (please refer to [Lighting Control Concept](#lighting-control-concept))
