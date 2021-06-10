@@ -126,7 +126,9 @@ Total: 114 components
 - Relais Module (1 piece; 4-Relais Modul 5V)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/4_relais-modul 5_v.jpg" width="100"> 
 - NPN-Transistor (1 piece; PN2222)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/npn-transistor_pn2222.jpg" width="100"> 
 - External EEPROM Module (1 piece; AT24C256 I2C Interface EEPROM)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/external_eeprom_at24c256_i2c_interface_eeprom.jpg" width="100"> 
 - RF 433 MHz Transmitter (1 piece; H34A)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_back.jpg" width="100">  
 - Momentary Push Buttons (28 pieces; 12mm)
