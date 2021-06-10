@@ -99,6 +99,7 @@ Total: 106 components
 - 230V electric heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket.jpg" width="100"> <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket_remote_control.jpg" width="100"> 
 - 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
 - 120x120x25mm fans (2 pieces; 12V, 127,3m^3/h, 34dBA)
 - Water Sensors (6 pieces; SE045)
