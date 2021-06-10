@@ -164,6 +164,9 @@ Current Prototype (only for testing purposes) and the creation process behind (s
 
 ## Storyboard Display
 
+Before I started with the display implementation I created a storyboard for the display content and UI-Workflow.
+Please be aware that such a storyboard depicts not the final UI design. It should "only" represent which information should be displayed in which situation.
+
 ![Storyboard Display](docs/mobile_smart_home_diy_camper_van_storyboard_display.png)
 
 ### Display Implementation
@@ -289,6 +292,8 @@ Within the [wiki](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camp
 - [1.8 SPI TFT Display ST7735 128x160 pixel with programmatic backlight control](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/1.8-SPI-TFT-Display-ST7735-128x160-pixel-with-programmatic-backlight-control)
 
 ## Usage of the following software libs
+
+Thanks to these guys:
 - *ucglib* by Oli Kraus for TFT Display integration: https://github.com/olikraus/ucglib
 - *Capacitive Sensing Library* by Paul Badger for touch area integration: https://github.com/PaulStoffregen/CapacitiveSensor
 - *IRremote* by shirriff, z3t0, Armin Joachimsmeyer for IR communication integration: https://github.com/Arduino-IRremote/Arduino-IRremote
