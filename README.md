@@ -103,6 +103,7 @@ Total: 106 components
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/1-8_SPI_TFT_Display_ST7735_128x160_back.jpg" width="100">  
 - Line Follower IR Sensor (2 pieces; TCRT5000)
 - Shift registers (4 pieces; 74HC165)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/74HC165_shift_register.jpg" width="100"> 
 - Real Time Clock (1 piece; DS3231)
 - Relais Module (1 piece; 4-Relais Modul 5V)
 - NPN-Transistor (1 piece; PN2222)
@@ -110,6 +111,7 @@ Total: 106 components
 - RF 433 MHz Transmitter (1 piece; H34A)
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - Momentary Push Buttons (28 pieces; 12mm)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Momentary_Push_Button_12mm.jpg" width="100"> 
 - Different resistors
 
 
