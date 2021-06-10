@@ -262,6 +262,7 @@ The humidity threshold, when the fan within the bathroom should turn on automati
 Within the [wiki](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki) you find some example sketches with respect to different topics, which are maybe useful for your purposes: 
 
 - [Four Daisy Chained 74HC165 Shift Registers (Multiple Shift Registers)](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/Four-Daisy-Chained-74HC165-Shift-Registers-(Multiple-Shift-Registers))
+- [1.8 SPI TFT Display ST7735 128x160 pixel with programmatic backlight control](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/1.8-SPI-TFT-Display-ST7735-128x160-pixel-with-programmatic-backlight-control)
 
 ## Usage of the following software libs
 - *ucglib* by Oli Kraus for TFT Display integration: https://github.com/olikraus/ucglib
