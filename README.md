@@ -1,4 +1,5 @@
 # "Mobile Smart Home" for our DIY Camper Van
+
 With this repo I provide my concepts and some code snippets (example sketches) about our DIY camper van that I will turn into a "Mobile Smart Home" with an Arduino Mega and a bunch of electronic components.
 Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nice touch screen which communicates with the Arduino Mega.
 
@@ -28,9 +29,13 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 
 ## Planning and Overview
 
+I've planned to install a bunch of components in the different areas within our Sprinter
+
 ![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_planning_overview.png)
 
 ## Features
+
+The main features of self-made "Mobile Smart Home" solution are as follows
 
 - Creation of two control units, one within the sideboard area the other one within the bedroom area, which offers the following means
   - Turn outside light on or off
@@ -82,6 +87,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
   - Distance recognition threshold for bed control unit
   - Touch recognition threshold for bed control unit 
 - Permanently storage of system configuration parameters
+- One the one hand the main unit ("Zentraleinheit") can be easily put out during winter time. On the other hand it can be easily plugged in, also during winter time, to check if there are no issues (e.g., water ingress) operated with the support of a USB power bank.
 
 
 ## Integration of the following hardware components 
@@ -238,21 +244,31 @@ The humidity threshold, when the fan within the bathroom should turn on automati
 
 ##### Water Sensor Threshold Configuration Implementation
 
+The water sensor threshold, that determines when water ingress should be reported.
+
 ![Water Sensor Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_4_water_sensor.jpg)
 
 ##### Sideboard Distance Threshold Configuration Implementation
+
+As Line Follower IR Sensor (TCRT5000) can be influenced by the incidence of light (depending on where the control unit is physically installed), you are able to configure the distance threshold of the sideboard control unit.
 
 ![Sideboard Distance Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_5_sideboard_distance.jpg)
 
 ##### Sideboard Touch Threshold Configuration Implementation
 
+The sideboard touch threshold, that controls how sensitive the touch area at the sideboard control unit should react.
+
 ![Sideboard Touch Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_6_sideboard_touch.jpg)
 
 ##### Bed Distance Threshold Configuration Implementation
 
+As Line Follower IR Sensor (TCRT5000) can be influenced by the incidence of light (depending on where the control unit is physically installed), you are able to configure the distance threshold of the bedroom control unit.
+
 ![Bed Distance Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_7_bed_distance.jpg)
 
 ##### Bed Touch Threshold Configuration Implementation
+
+The bed touch threshold, that controls how sensitive the touch area at the bedroom control unit should react.
 
 ![Bed Touch Threshold Configuration Screen](docs/mobile_smart_home_diy_camper_screen_06_system_settings_8_bed_touch.jpg)
 
