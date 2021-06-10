@@ -96,12 +96,12 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 Total: 115 components
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - Screw / Terminal Block Shield Board Kit For ArduinoMEGA-2560 R3
-- 230V lights (4 pieces) with IR control from different vendors (e.g., iDual)
+- 230V lights (4 pieces) with IR remote control from different vendors (e.g., iDual)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_back.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_udo.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_remote_control.jpg" width="100">
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light_remote_control.jpg" width="100">
-- 230V electric heater with IR control
-- 12V diesel heater with RF control
-- 230V RF sockets (2 pieces)
+- 230V electric heater with IR remote control
+- 12V diesel heater with RF remote control
+- 230V RF sockets (2 pieces) with RF remote control
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket_remote_control.jpg" width="100"> 
 - 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/80_80_25_fan.jpg" width="100">  
