@@ -99,6 +99,8 @@ Total: 106 components
 - Motion Sensors (2 pieces; HC-SR501)
 - Temperature & Humidity Sensors (4 pieces; DHT22)
 - TFT Displays (2 pieces; 1.8 Zoll SPI ST7735 TFT Display 128 x 160 Pixel)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/1-8_SPI_TFT_Display_ST7735_128x160_front.jpg" width="100">
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/1-8_SPI_TFT_Display_ST7735_128x160_back.jpg" width="100">  
 - Line Follower IR Sensor (2 pieces; TCRT5000)
 - Shift registers (4 pieces; 74HC165)
 - Real Time Clock (1 piece; DS3231)
