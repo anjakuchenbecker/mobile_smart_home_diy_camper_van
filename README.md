@@ -306,7 +306,9 @@ The bed touch threshold, that controls how sensitive the touch area at the bedro
 
 In order to use not all the different vendor specific IR remote controls to control our 230V lamps we use in our Sprinter, I've defined a lighting control concept. With only one button press, the related light scene is activated. In the background the previously recorded IR codes are sent by the different IR transmitter units. 
 
-Each IR transmitter unit can be requested separately. In our case this is very important, because three of the four lamps are from the same vendor (iDual) and their concept is that you can drive all iDual lamps with one IR remote control. 
+Each IR emitter unit can be requested separately. In our case this is very important, because three of the four lamps are from the same vendor (iDual) and their concept is that you can drive all iDual lamps with one IR remote control. 
+
+The cool thing is here, that I can share the digital pin signal (in my case this is pin D9), which sends the IR signals, between all units. Meaning I can drive the five IR emitter units with one popular library for sending IR signals, as when I driving only one IR emitter.
 
 As a result, I place the several IR transmitter units at the right place and ensure that I only activate the proper unit(s) to send IR codes, when needed.
 
