@@ -87,7 +87,7 @@ The main features of self-made "Mobile Smart Home" solution are as follows
   - Distance recognition threshold for bed control unit
   - Touch recognition threshold for bed control unit 
 - Permanently storage of system configuration parameters
-- One the one hand the main unit ("Zentraleinheit") can be easily put out during winter time. On the other hand it can be easily plugged in, also during winter time, to check if there are no issues (e.g., water ingress) operated with the support of a USB power bank.
+- Pluggable main unit ("Zentraleinheit"): One the one hand the main unit can be easily put out during winter time, when our Sprinter is not in use. On the other hand it can be easily put in temporary, also during winter time, to check if there are no issues (e.g., water ingress) operated with the support of a USB power bank.
 
 
 ## Integration of the following hardware components 
