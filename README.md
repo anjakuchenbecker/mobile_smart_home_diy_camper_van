@@ -87,7 +87,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 ## Integration of the following hardware components 
 
 Total: 106 components
-- 230V lights (4 pieces) with IR control from different vendor (e.g., iDual)
+- 230V lights (4 pieces) with IR control from different vendors (e.g., iDual)
 - 230V electric heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
