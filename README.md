@@ -40,7 +40,7 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 - Creation of two control units, one within the sideboard area the other one within the bedroom area, which offers the following means
   - Turn outside light on or off
   - Turn tire warmers on or off
-  - Activation of five different light scenes
+  - Activation of five different light scenes (please refer to [Lighting Control Concept](#lighting-control-concept))
     - "Off": Turns all lights off (motion based triggered bathroom light excluded)
     - "Bright": Turns all lights on with maximum brightness level (motion based triggered bathroom light excluded)
     - "Ambient": Turns all lights on with low brightness level, orange light (motion based triggered bathroom light excluded)
