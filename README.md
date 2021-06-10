@@ -103,7 +103,9 @@ Total: 114 components
 - 230V RF sockets (2 pieces)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket_remote_control.jpg" width="100"> 
 - 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/80_80_25_fan.jpg" width="100">  
 - 120x120x25mm fans (2 pieces; 12V, 127,3m^3/h, 34dBA)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/120_120_25_fan.jpg" width="100">   
 - Water Sensors (6 pieces; SE045)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/water_sensor_SE045.jpg" width="100">
 - Ultrasonic sensor (1 piece; HC-SR04)
