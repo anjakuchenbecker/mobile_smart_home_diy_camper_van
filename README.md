@@ -100,7 +100,7 @@ Total: 114 components
 - 230V electric heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
-  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket.jpg" width="100"> <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket_remote_control.jpg" width="100"> 
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_plug_socket_remote_control.jpg" width="100"> 
 - 80x80x25mm fan (1 piece; 12V, 76,4m^3/h, 38dBA)
 - 120x120x25mm fans (2 pieces; 12V, 127,3m^3/h, 34dBA)
 - Water Sensors (6 pieces; SE045)
@@ -114,6 +114,7 @@ Total: 114 components
 - TFT Displays (2 pieces; 1.8 Zoll SPI ST7735 TFT Display 128 x 160 Pixel)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/1-8_SPI_TFT_Display_ST7735_128x160_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/1-8_SPI_TFT_Display_ST7735_128x160_back.jpg" width="100">  
 - Line Follower IR Sensor (2 pieces; TCRT5000)
+  -<img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/line_follower_ir_sensor_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/line_follower_ir_sensor_back.jpg" width="100">   
 - Shift registers (4 pieces; 74HC165)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/74HC165_shift_register.jpg" width="100"> 
 - Real Time Clock (1 piece; DS3231)
