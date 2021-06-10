@@ -110,6 +110,7 @@ Total: 114 components
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/water_sensor_SE045.jpg" width="100">
 - Ultrasonic sensor (1 piece; HC-SR04)
 - IR-Emitter (5 pieces; TSAL 6200 IR-Emitter 940nm)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/tsal_6200ir_emitter_940_nm.jpg" width="100"> 
 - Motion Sensors (2 pieces; HC-SR501)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/motion_sensor_HC-SR501_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/motion_sensor_HC-SR501_back.jpg" width="100">
 - Temperature & Humidity Sensors (4 pieces; DHT22)
