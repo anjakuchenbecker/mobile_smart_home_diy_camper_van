@@ -1,6 +1,6 @@
 # "Mobile Smart Home" for our DIY Camper Van
 
-With this repo I provide my concepts and some code snippets (example sketches) about our DIY camper van that I will turn into a "Mobile Smart Home" with an Arduino Mega and a bunch of electronic components.
+With this repo I provide my concepts and some code snippets (example sketches) about our DIY camper van (Mercedes Sprinter W906; L4H2) that I will turn into a "Mobile Smart Home" with an Arduino Mega and a bunch of electronic components.
 Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nice touch screen which communicates with the Arduino Mega.
 
 ## Table of Contents
