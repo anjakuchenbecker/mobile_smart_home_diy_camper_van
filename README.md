@@ -122,6 +122,7 @@ Total: 114 components
 - NPN-Transistor (1 piece; PN2222)
 - External EEPROM Module (1 piece; AT24C256 I2C Interface EEPROM)
 - RF 433 MHz Transmitter (1 piece; H34A)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_back.jpg" width="100">  
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
 - Momentary Push Buttons (28 pieces; 12mm)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Momentary_Push_Button_12mm.jpg" width="100"> 
