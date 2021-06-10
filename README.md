@@ -94,6 +94,8 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 
 Total: 106 components
 - 230V lights (4 pieces) with IR control from different vendors (e.g., iDual)
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_projektor_eek_back.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_led_udo.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/iDual_remote_control.jpg" width="100">
+  - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/LED_ceiling_light_remote_control.jpg" width="100">
 - 230V electric heater with IR control
 - 12V diesel heater with RF control
 - 230V RF sockets (2 pieces)
