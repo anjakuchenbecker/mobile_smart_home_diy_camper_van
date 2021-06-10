@@ -304,6 +304,16 @@ The bed touch threshold, that controls how sensitive the touch area at the bedro
 
 ## Lighting Control Concept
 
+In order to use not all the different vendor specific IR remote controls to control our 230V lamps we use in our Sprinter, I've defined a lighting control concept. With only one button press, the related light scene is activated. In the background the previously recorded IR codes are sent by the different IR transmitter units. 
+
+Each IR transmitter unit can be requested separately. In our case this is very important, because three of the four lamps are from the same vendor (iDual) and their concept is that you can drive all iDual lamps with one IR remote control. 
+
+As a result, I place the several IR transmitter units at the right place and ensure that I only activate the proper unit(s) to send IR codes, when needed.
+
+In total I've build five IR transmitter units, but only four are for the lamps. The fifth one is for controlling the 230V electric heater.
+
+The different supported light scenes as well as the separated control of the lamp within the bathroom are as follows:
+
 ![Lighting Control](docs/mobile_smart_home_diy_camper_van_lighting_control.png)
 
 ## Example Sketches
