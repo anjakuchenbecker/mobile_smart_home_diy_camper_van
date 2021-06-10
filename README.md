@@ -46,7 +46,7 @@ The main features of self-made "Mobile Smart Home" solution are as follows
     - "Ambient": Turns all lights on with low brightness level, orange light (motion based triggered bathroom light excluded)
     - "Work": Turns all lights on with medium brightness level, white light
     - "Sleep": Activates motion detector in corridor area. When motion is detected one light is activated in red color on lowest brightness level and the bathroom light is switched to red color in lowest brightness level when within the bathroom area a motion is detected.
-  - Turn bedroom light on or off
+  - Turn bedroom light on or off (separately despite the current enabled light scene)
   - Switch between electric heater and diesel heater control
   - Turn (electric or diesel) heater on or off
   - Increase or decrease of (electric or diesel) heater temperature
