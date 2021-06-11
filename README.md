@@ -324,6 +324,8 @@ Within the [wiki](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camp
 
 - [Four Daisy Chained 74HC165 Shift Registers (Multiple Shift Registers)](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/Four-Daisy-Chained-74HC165-Shift-Registers-(Multiple-Shift-Registers))
 - [1.8 SPI TFT Display ST7735 128x160 pixel with programmatic backlight control](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/1.8-SPI-TFT-Display-ST7735-128x160-pixel-with-programmatic-backlight-control)
+- [Drive multiple IR emitters (TSAL 6200 IR 940 nm)](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/wiki/Drive-multiple-IR-emitters-(TSAL-6200-IR-940-nm))
+
 
 ## Usage of the following software libs
 
