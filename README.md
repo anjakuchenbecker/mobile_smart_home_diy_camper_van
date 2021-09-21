@@ -22,8 +22,15 @@ Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nic
 
 ## Project Status
 
+Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/).
+
+Example sketches can be found here: [Example Sketches](#example-sketches) 
+
 *September 2021:*
-Final installation is completed! I've build the final units (yes, a lot of more soldering and special thanks to our 3D Printer), installed all electronis components and wires (didn't measure the entire wire length, but this step took several weekends for completion) and adapted my code. Especially, handling the well-known issue with the distance sensors, when there is a lot of sun light. But with a little bit of math and statistics: now it works like a charm ;-)
+Final installation is completed! I've build the final units (yes, a lot of more soldering and special thanks to our 3D Printer), installed all electronis components and wires (didn't measure the entire wire length, but this step took several weekends for completion) and adapted my code. 
+
+Especially, handling the well-known issue with the distance sensors, when there is a lot of sun light. But with a little bit of math and statistics: now it works like a charm ;-)
+
 More details are coming, we'll create a dedicated youtube video about the making of and the final installation and units.
 For now, here is an impression about the final installation and the look of the final control units:
 
@@ -32,9 +39,7 @@ For now, here is an impression about the final installation and the look of the 
 *June 2021:*
 Prototyping is completed! I've soldered a lot, physically installed all of the electronic components and wrote over 4500 lines of code. Next step is to transform this prototype setup into final units, which can I install into our Sprinter.
 
-Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/).
 
-Example sketches can be found here: [Example Sketches](#example-sketches) 
 
 ## Planning and Overview
 
