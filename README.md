@@ -106,7 +106,7 @@ The main features of self-made "Mobile Smart Home" solution are as follows
 
 ## Integration of the following hardware components 
 
-Total: 115 components
+Total: 116 components
 - Arduino Mega 2560 compatible microcontroller board (1 piece; ELEGOO Mega2560 R3)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/elegoo_mega_2560_r3.jpg" width="100">  
 - Screw / Terminal Block Shield Board Kit For ArduinoMEGA-2560 R3
@@ -152,7 +152,7 @@ Total: 115 components
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_front.jpg" width="100"><img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/rf_433_mhz_transmitter_H34A_back.jpg" width="100">  
 - Momentary Push Buttons (28 pieces; 12mm)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Momentary_Push_Button_12mm.jpg" width="100"> 
-- 4x4 Matrix Keypad
+- 4x4 Matrix Keypad (2 pieces)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Matrix_Keypad_4x4.jpg" width="100"> 
 - Different resistors
 
