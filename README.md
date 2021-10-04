@@ -27,7 +27,7 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 ## Project Status
 
 **October 2021:**
-Even if the final installation has been completed, I took a small improvement with respect to the illumination. 
+Even if the final installation has been completed, I took a small improvement with respect to the illumination of the control units. 
 
 I first used a round type red LED, but this wasn't bright enough. Reading the labels in the dark wasn't easy... so I switched over to a very, very small cold white SMD LED (mounting form 0805). Now I'm entirely happy! Have a look at the result:
 
