@@ -26,6 +26,14 @@ Example sketches can be found here: [Example Sketches](#example-sketches)
 
 ## Project Status
 
+**October 2021:**
+Even if the final installation has been completed, I took a small improvement with respect to the illumination. 
+
+I first used a round type red LED, but this wasn't bright enough. Reading the labels in the dark wasn't easy... so I switched over to a very, very small cold white SMD LED (mounting form 0805). Now I'm entirely happy! Have a look at the result:
+
+![Planning and Overview Diagram](docs/mobile_smart_home_diy_camper_van_update_final_installation_and_improved_control_units.png)
+
+
 **September 2021:**
 Final installation is completed! I've build the final units (yes, a lot of more soldering and special thanks to our 3D Printer), installed all electronis components and wires (didn't measure the entire wire length, but this step took several weekends for completion) and adapted my code. 
 
@@ -154,6 +162,7 @@ Total: 116 components
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Momentary_Push_Button_12mm.jpg" width="100"> 
 - 4x4 Matrix Keypad (2 pieces)
   - <img src="https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/blob/main/components/Matrix_Keypad_4x4.jpg" width="100"> 
+- SMD LED cold white (2 pieces; mounting form 0805)
 - Different resistors
 
 
